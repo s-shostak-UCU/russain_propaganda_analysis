@@ -1,4 +1,4 @@
-# README for russian Propaganda Dataset Analysis
+# russian Propaganda Analysis
 
 ## Project Overview
 
