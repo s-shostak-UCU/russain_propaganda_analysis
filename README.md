@@ -1,12 +1,13 @@
 # README for russian Propaganda Dataset Analysis
 
-## Getting Started
-
-- You can use Google Colab to run the code
-
 ## Project Overview
 
 This project comprehensively analyzes a dataset containing messages from various russian propaganda telegram channels. The analysis covers various aspects, including general channel metrics, reactions analysis, content analysis, network analysis, and time series analysis. The goal is to uncover patterns, trends, and insights into the nature of content and audience engagement in these channels.
+
+## Getting Started
+
+- You can use Google Colab to run the code, but better to use Colab Pro
+- If you want to run the code on the local machine, create a new virtual environment and install all packages from `requirements.txt`
 
 ### Prerequisites
 
