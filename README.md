@@ -59,6 +59,6 @@ The time series analysis examines how posting frequency and reactions vary over 
 
 ## Acknowledgment
 
-Special thanks to Andriy Kukochkin for his expertise in the field of Computational Social Science. His course, "Computational Social Science," provided not only the foundational knowledge but also the inspiration and opportunity to undertake this project. His teachings have been instrumental in shaping the approach and methodologies employed in this analysis.
+Special thanks to Andriy Kurochkin for his expertise in the field of Computational Social Science. His course, "Computational Social Science," provided not only the foundational knowledge but also the inspiration and opportunity to undertake this project. His teachings have been instrumental in shaping the approach and methodologies employed in this analysis.
 
 ---
